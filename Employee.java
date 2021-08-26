@@ -11,4 +11,7 @@ public void method1(){
 public void method2(){
 //code
 }
+public void method3(){
+//code
+}
 }
