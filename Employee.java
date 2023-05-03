@@ -2,16 +2,6 @@ class Employee
 {
 public static void main(String args[])
 {
-public void method(){
-//code
-}
-public void method1(){
-//code
-}
-public void method2(){
-//code
-}
-public void method3(){
-//code
+  system.out.println("Prathyusha's experiment");
 }
 }
